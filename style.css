@@ -1,0 +1,50 @@
+.main-container {
+    background-color: #1f2937;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.links ul {
+    display: flex;
+    gap: 40px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+li {
+    list-style: none;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.hero-container {
+    padding: 100px;
+    display: flex;
+
+}
+
+img {
+    width: 300px;
+}
+
+.hero-container h1 {
+    color: #F9FAF8;
+    font-size: 48px;
+}
+
+.hero-container p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.button {
+    background-color: #3882f6;
+
+}
